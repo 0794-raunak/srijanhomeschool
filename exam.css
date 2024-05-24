@@ -1,0 +1,96 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://thumbs.dreamstime.com/z/play-cube-seamless-25652304.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    text-align: center;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 48px;
+    margin-bottom: 0;
+  }
+  
+  p {
+    font-size: 20px;
+    margin-top: 0;
+  }
+
+
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  nav a {
+    float:left;
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    line-height: 50%;
+  }
+  
+  nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    
+  }
+.navbar{
+  display: flex;
+  justify-content: center;
+}
+.navbar a {
+  margin: 0 1%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+.exam {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.exam img {
+    width: 100px;
+    margin-right: 20px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
